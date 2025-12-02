@@ -23,6 +23,7 @@ Extensive experiments on the challenging **EgoExo4D benchmark** demonstrate that
 
 ## Latest updates
 **2025.12.02 — We publicly release the official implementation of our LM-EEC model.**
+
 **2025.09.18 — Our paper has been accepted to NeurIPS 2025!**
 
 
